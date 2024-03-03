@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Regular_Bridge/cmake-build-debug/CMakeFiles/Regular_Bridge.dir
+/Users/iliasihadian/CLionProjects/Regular_Bridge/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Regular_Bridge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

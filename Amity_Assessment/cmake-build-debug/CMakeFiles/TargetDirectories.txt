@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Amity_Assessment/cmake-build-debug/CMakeFiles/Amity_Assessment.dir
+/Users/iliasihadian/CLionProjects/Amity_Assessment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Amity_Assessment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
