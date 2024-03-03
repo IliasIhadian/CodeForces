@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Rook_Bishop_and_King/cmake-build-debug/CMakeFiles/Rook_Bishop_and_King.dir
+/Users/iliasihadian/CLionProjects/Rook_Bishop_and_King/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Rook_Bishop_and_King/cmake-build-debug/CMakeFiles/rebuild_cache.dir
