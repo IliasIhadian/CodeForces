@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/min_val/cmake-build-debug/CMakeFiles/odd_even.dir
+/Users/iliasihadian/CLionProjects/min_val/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/min_val/cmake-build-debug/CMakeFiles/rebuild_cache.dir
