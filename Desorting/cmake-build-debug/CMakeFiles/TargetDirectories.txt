@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Desorting/cmake-build-debug/CMakeFiles/Desorting.dir
+/Users/iliasihadian/CLionProjects/Desorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Desorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
