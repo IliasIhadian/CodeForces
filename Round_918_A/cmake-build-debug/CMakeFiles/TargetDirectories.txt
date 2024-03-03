@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Odd_one_out/cmake-build-debug/CMakeFiles/Odd_one_out.dir
+/Users/iliasihadian/CLionProjects/Odd_one_out/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Odd_one_out/cmake-build-debug/CMakeFiles/rebuild_cache.dir

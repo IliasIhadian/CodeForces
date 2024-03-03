@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Not_Quite_Latin_Square/cmake-build-debug/CMakeFiles/Not_Quite_Latin_Square.dir
+/Users/iliasihadian/CLionProjects/Not_Quite_Latin_Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Not_Quite_Latin_Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

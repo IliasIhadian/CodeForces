@@ -1,0 +1,3 @@
+/Users/iliasihadian/CLionProjects/Cover_in_water/cmake-build-debug/CMakeFiles/Cover_in_water.dir
+/Users/iliasihadian/CLionProjects/Cover_in_water/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/iliasihadian/CLionProjects/Cover_in_water/cmake-build-debug/CMakeFiles/rebuild_cache.dir
